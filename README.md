@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Akshaya Reddy Portfolio
 
 Modern recruiter-friendly React portfolio built with Vite, Framer Motion and Lucide React.
@@ -24,3 +25,7 @@ Then open the local Vite URL shown in the terminal.
 - `src/App.jsx` — sections/components and portfolio data
 - `src/styles.css` — complete responsive styling and animations
 - `src/main.jsx` — React entry point
+=======
+# portfolio
+my personal portfolio website
+>>>>>>> 2196940f4713a266122936662443cc2a0d562720
